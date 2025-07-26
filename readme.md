@@ -83,6 +83,8 @@ This project is licensed under the Coffee License.
 
 Projects using Coffee License:
 
+[cdf](https://github.com/codinganovel/cdf)
+
 [autocd-go](https://github.com/codinganovel/autocd-go)
 
 [autocd](https://github.com/codinganovel/autocd)
