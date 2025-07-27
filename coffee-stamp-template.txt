@@ -1,0 +1,26 @@
+┌─────────────────────────────────────────────────────────────┐
+│                     THE COFFEE LICENSE                      │
+├─────────────────────────────────────────────────────────────┤
+│ • Free for everyone.                                        │
+│ • Coffee money for billionaires.                            │
+│                                                             │
+│ MIT + Basic Courtesy                                        │
+│                                                             │
+│ • Free for personal, educational, and small business use    │
+│ • $[AMOUNT] if your net worth has commas and lawyers        │
+│ • Use freely, modify freely                                 │
+│   (but buy me a damn latte if you're [BIG_CORP])           │
+├─────────────────────────────────────────────────────────────┤
+│ Copyright [YEAR] [NAME]                                     │
+│ Contact: [EMAIL]                                            │
+├─────────────────────────────────────────────────────────────┤
+│ IF YOU'RE ABOVE THE THRESHOLD                              │
+│ but would prefer not to pay,                               │
+│ restructure your assets                                    │
+│ until you're technically not.                              │
+├─────────────────────────────────────────────────────────────┤
+│ This isn't about money. It's about acknowledgment.         │
+│                                                             │
+│ ☕ Made with code and good faith                            │
+│    by an indie dev who believes in balance                 │
+└─────────────────────────────────────────────────────────────┘
