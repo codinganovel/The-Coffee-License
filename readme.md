@@ -117,8 +117,6 @@ Projects using Coffee License:
 
 [loip](https://github.com/codinganovel/loip)
 
-[linkt](https://github.com/codinganovel/linkt)
-
 [gitnot](https://github.com/codinganovel/gitnot)
 
 [blipt](https://github.com/codinganovel/blipt)
